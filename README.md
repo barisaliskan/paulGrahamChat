@@ -101,3 +101,6 @@ Enter your OpenAI API Key in the input field
 Ask questions to the Paul Graham AI Agent
 
 Test with provided sample questions or your own prompts
+
+<img width="1460" height="1497" alt="Screenshot from 2025-09-10 16-27-12" src="https://github.com/user-attachments/assets/7da8d013-92e7-40e2-8985-d6c0b72d9614" />
+
