@@ -1,4 +1,4 @@
-#  Paul Graham AI Agent – Internship Project
+#  Paul Graham AI Agent 
 
 A chatbot that mimics the thinking style and communication patterns of Paul Graham (co-founder of Y Combinator and influential technology essayist).  
 This project demonstrates full-stack development skills, AI integration expertise, and system architecture capabilities.
